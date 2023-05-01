@@ -1,0 +1,8 @@
+var chicken = 
+{"type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"Name":"KFC Nicholasville Road","Type":"Kentucky Fried Chicken", "Address": "2401 Nicholasville Road", "Phone": 8592770416, "Website": "https://locations.kfc.com/ky/lexington/2401-nicholasville-road/"},"geometry":{"type":"Point","coordinates":[-84.519662, 38.003292]}},
+    {"type":"Feature","properties":{"Name":"KFC Tates Creek Center Drive","Type":"Kentucky Fried Chicken", "Address": "4141 Tates Creek Center Drive", "Phone": 8592713135, "Website": "https://locations.kfc.com/ky/lexington/4141-tates-creek-centre-drive/"},"geometry":{"type":"Point","coordinates":[-84.500515, 37.969091]}},
+    {"type":"Feature","properties":{"Name":"KFC Richmond Road","Type":"Kentucky Fried Chicken", "Address": "3030 Richmond Road", "Phone": 8592665830, "Website": "https://locations.kfc.com/ky/lexington/3030-richmond-road/"},"geometry":{"type":"Point","coordinates":[-84.45056, 38.004584]}},
+    {"type":"Feature","properties":{"Name":"KFC Plaudit Drive","Type":"Kentucky Fried Chicken", "Address": "1907 Plaudit Place", "Phone": 8592630799, "Website": "https://locations.kfc.com/ky/lexington/1907-plaudit-dr/"},"geometry":{"type":"Point","coordinates":[-84.416248, 38.01873]}},
+    {"type":"Feature","properties":{"Name":"KFC Boardwalk","Type":"Kentucky Fried Chicken", "Address": "1494 Boardwalk", "Phone": 8592524255, "Website": "https://locations.kfc.com/ky/lexington/1494-boardwalk/"},"geometry":{"type":"Point","coordinates":[-84.482825, 38.07149]}},
+    ]}
